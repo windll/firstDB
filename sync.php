@@ -4,7 +4,7 @@
    list($hash_type,$hash_value) = explode('=', $github_signal,2);
     //获取用户输入的
   $payload = file_get_contents("php://input");
-  $secret = 'wenhaiCOM.';
+  $secret = '34134586783Sr';
 
   //生成带有密钥的hash 值  
 
